@@ -1,4 +1,4 @@
-### Oie eu sou a Caroline Nunes 😊
+### Oie!! eu sou a Caroline Nunes 😊
 
 Cientista de dados em formação pela USP, atualmente realizo mestrado no hospital de Câncer de Barretos, atuando como bioinformata e analista de dados do meu grupo de pesquisa e também prestando suporte a outros grupos. 
 
