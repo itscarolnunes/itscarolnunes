@@ -10,7 +10,7 @@ Cientista de dados em formação pela USP, atualmente realizo mestrado no hospit
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
  <img align="center" alt="R"  src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-   <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1617912137233440769/bRaTJUHk_400x400.jpg">
+   <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://live.staticflickr.com/65535/52660681257_6caf320a99_n.jpg">
 </div>
 
  ##
