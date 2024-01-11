@@ -1,6 +1,6 @@
 ### Oie!! eu sou a Caroline Nunes 😊
 
-Cientista de dados em formação pela USP, atualmente realizo mestrado no hospital de Câncer de Barretos, atuando como bioinformata e analista de dados do meu grupo de pesquisa e também prestando suporte a outros grupos. 
+Cientista de dados em formada pela USP, atuei como bioinformata e analista de dados no hospital de câncer de Barretos, e atualmente trabalho com inteligência comercial na Lightsweet. 
 
 
 ![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=itscarolnunes&show_icons=true&theme=radical#gh-light-mode-only)
